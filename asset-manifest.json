@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/einkaufslist/static/css/main.bef8bfd0.chunk.css",
-    "main.js": "/einkaufslist/static/js/main.bd625ef3.chunk.js",
-    "main.js.map": "/einkaufslist/static/js/main.bd625ef3.chunk.js.map",
+    "main.css": "/einkaufslist/static/css/main.cce3f3b6.chunk.css",
+    "main.js": "/einkaufslist/static/js/main.0e7d6bc5.chunk.js",
+    "main.js.map": "/einkaufslist/static/js/main.0e7d6bc5.chunk.js.map",
     "runtime-main.js": "/einkaufslist/static/js/runtime-main.e3c00de1.js",
     "runtime-main.js.map": "/einkaufslist/static/js/runtime-main.e3c00de1.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/einkaufslist/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3154e981.chunk.js": "/einkaufslist/static/js/2.3154e981.chunk.js",
-    "static/js/2.3154e981.chunk.js.map": "/einkaufslist/static/js/2.3154e981.chunk.js.map",
+    "static/js/2.6d85868c.chunk.js": "/einkaufslist/static/js/2.6d85868c.chunk.js",
+    "static/js/2.6d85868c.chunk.js.map": "/einkaufslist/static/js/2.6d85868c.chunk.js.map",
     "index.html": "/einkaufslist/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/einkaufslist/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.bef8bfd0.chunk.css.map": "/einkaufslist/static/css/main.bef8bfd0.chunk.css.map",
-    "static/js/2.3154e981.chunk.js.LICENSE.txt": "/einkaufslist/static/js/2.3154e981.chunk.js.LICENSE.txt",
+    "static/css/main.cce3f3b6.chunk.css.map": "/einkaufslist/static/css/main.cce3f3b6.chunk.css.map",
+    "static/js/2.6d85868c.chunk.js.LICENSE.txt": "/einkaufslist/static/js/2.6d85868c.chunk.js.LICENSE.txt",
     "static/media/apple.f9cbf62c.svg": "/einkaufslist/static/media/apple.f9cbf62c.svg",
-    "static/media/broccoli.7c49f702.svg": "/einkaufslist/static/media/broccoli.7c49f702.svg"
+    "static/media/berry.a9fe4193.svg": "/einkaufslist/static/media/berry.a9fe4193.svg",
+    "static/media/broccoli.7c49f702.svg": "/einkaufslist/static/media/broccoli.7c49f702.svg",
+    "static/media/spinach.99955154.png": "/einkaufslist/static/media/spinach.99955154.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e3c00de1.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.3154e981.chunk.js",
-    "static/css/main.bef8bfd0.chunk.css",
-    "static/js/main.bd625ef3.chunk.js"
+    "static/js/2.6d85868c.chunk.js",
+    "static/css/main.cce3f3b6.chunk.css",
+    "static/js/main.0e7d6bc5.chunk.js"
   ]
 }
